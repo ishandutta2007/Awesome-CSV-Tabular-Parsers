@@ -60,55 +60,55 @@ Market concentration is **moderately fragmented and bifurcated**:
 
 ### 🏆 Ranked Repositories (by Popularity)
 
-- **[Pandas](https://github.com/pandas-dev/pandas)** [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) 🐼  
+- **[Pandas](https://github.com/pandas-dev/pandas)** [![GitHub_Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) 🐼  
   **The Python Data Analysis Standard with C-Optimized I/O** (BSD-3-Clause) — Features `read_csv` and `to_csv` with multi-threading, custom chunking, and memory profiling. **Benchmark**: 1.39ms average file-wise parse time in VLDB evaluations. Ideal for analytical workflows, Python data science pipelines, and DataFrame transformations.
 
-- **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆  
+- **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆  
   **In-Process SQL OLAP Engine with Multi-Threaded CSV Sniffer** (MIT) — Auto-detects delimiters, escape characters, dates, and schema types using a streaming parallel CSV parser. Capable of querying larger-than-memory CSV files directly via SQL without separate ingestion steps.
 
-- **[Polars](https://github.com/pola-rs/polars)** [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) 🐻‍❄️  
+- **[Polars](https://github.com/pola-rs/polars)** [![GitHub_Stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) 🐻‍❄️  
   **Blazingly Fast Multi-Threaded DataFrame Engine in Rust** (MIT) — Provides `read_csv` and `scan_csv` with memory-mapped I/O, SIMD parsing, lazy evaluation, and predicate pushdown. Outperforms traditional single-core readers on multi-gigabyte datasets.
 
-- **[Apache Arrow](https://github.com/apache/arrow)** [![GitHub stars](https://img.shields.io/github/stars/apache/arrow?style=social&color=white)](https://github.com/apache/arrow/stargazers) 🏹  
+- **[Apache Arrow](https://github.com/apache/arrow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/arrow?style=social&color=white)](https://github.com/apache/arrow/stargazers) 🏹  
   **Cross-Language Development Platform for In-Memory Analytics** (Apache-2.0) — Delivers zero-copy columnar memory formats with high-performance multi-threaded C++/Python/Rust CSV streaming readers and type inference engines.
 
-- **[PapaParse](https://github.com/mholt/PapaParse)** [![GitHub stars](https://img.shields.io/github/stars/mholt/PapaParse?style=social&color=white)](https://github.com/mholt/PapaParse/stargazers) 🏎️  
+- **[PapaParse](https://github.com/mholt/PapaParse)** [![GitHub_Stars](https://img.shields.io/github/stars/mholt/PapaParse?style=social&color=white)](https://github.com/mholt/PapaParse/stargazers) 🏎️  
   **Browser & Node.js Delimiter-Separated Parser Standard** (MIT) — ~8M weekly npm downloads. Supports Web Workers to prevent UI freezing, chunked streaming via `download: true`, auto-detection of delimiters, dynamic type conversion, and bidirectional `unparse()`.
 
-- **[CsvHelper](https://github.com/JoshClose/CsvHelper)** [![GitHub stars](https://img.shields.io/github/stars/JoshClose/CsvHelper?style=social&color=white)](https://github.com/JoshClose/CsvHelper/stargazers) 🔷  
+- **[CsvHelper](https://github.com/JoshClose/CsvHelper)** [![GitHub_Stars](https://img.shields.io/github/stars/JoshClose/CsvHelper?style=social&color=white)](https://github.com/JoshClose/CsvHelper/stargazers) 🔷  
   **The .NET Standard for High-Performance CSV I/O** (MS-PL / Apache-2.0) — Robust C# library supporting strongly-typed POCO mapping via fluent `ClassMap<T>`, attribute-driven bindings, custom type converters, asynchronous streams, and full RFC 4180 compliance.
 
-- **[csv (csv-parse / node-csv)](https://github.com/adaltas/node-csv)** [![GitHub stars](https://img.shields.io/github/stars/adaltas/node-csv?style=social&color=white)](https://github.com/adaltas/node-csv/stargazers) 🟢  
+- **[csv (csv-parse / node-csv)](https://github.com/adaltas/node-csv)** [![GitHub_Stars](https://img.shields.io/github/stars/adaltas/node-csv?style=social&color=white)](https://github.com/adaltas/node-csv/stargazers) 🟢  
   **Resilient Stream-Based Node.js CSV Suite** (MIT) — Industry reference for malformed real-world CSV handling with `relax_column_count`, `relax_quotes`, backpressure control, and integrated pipeline modules (`csv-generate`, `csv-parse`, `csv-stringify`, `csv-transform`).
 
-- **[csvtojson](https://github.com/Keyang/node-csvtojson)** [![GitHub stars](https://img.shields.io/github/stars/Keyang/node-csvtojson?style=social&color=white)](https://github.com/Keyang/node-csvtojson/stargazers) 🔄  
+- **[csvtojson](https://github.com/Keyang/node-csvtojson)** [![GitHub_Stars](https://img.shields.io/github/stars/Keyang/node-csvtojson?style=social&color=white)](https://github.com/Keyang/node-csvtojson/stargazers) 🔄  
   **Asynchronous Node.js CSV-to-JSON Converter** (MIT) — Converts CSV streams and strings into JSON/JavaScript objects with custom column parsers, delimiter auto-detection, and CLI support.
 
-- **[rust-csv](https://github.com/BurntSushi/rust-csv)** [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/rust-csv?style=social&color=white)](https://github.com/BurntSushi/rust-csv/stargazers) 🦀  
+- **[rust-csv](https://github.com/BurntSushi/rust-csv)** [![GitHub_Stars](https://img.shields.io/github/stars/BurntSushi/rust-csv?style=social&color=white)](https://github.com/BurntSushi/rust-csv/stargazers) 🦀  
   **Fast, Flexible, and Robust CSV Reader/Writer for Rust** (Unlicense / MIT) — Built on a DFA-based parser with optional Serde deserialization, zero-allocation byte record slices, and high-throughput streaming.
 
-- **[Fast-CSV](https://github.com/C2FO/fast-csv)** [![GitHub stars](https://img.shields.io/github/stars/C2FO/fast-csv?style=social&color=white)](https://github.com/C2FO/fast-csv/stargazers) ⚡  
+- **[Fast-CSV](https://github.com/C2FO/fast-csv)** [![GitHub_Stars](https://img.shields.io/github/stars/C2FO/fast-csv?style=social&color=white)](https://github.com/C2FO/fast-csv/stargazers) ⚡  
   **Throughput-Focused Node.js Parser & Formatter** (MIT) — Built-in row validation with `data-invalid` hooks, stream piping, and fast formatting (29ms benchmarks) for bidirectional data ingestion pipelines.
 
-- **[csv-parser](https://github.com/mafintosh/csv-parser)** [![GitHub stars](https://img.shields.io/github/stars/mafintosh/csv-parser?style=social&color=white)](https://github.com/mafintosh/csv-parser/stargazers) ⏱️  
+- **[csv-parser](https://github.com/mafintosh/csv-parser)** [![GitHub_Stars](https://img.shields.io/github/stars/mafintosh/csv-parser?style=social&color=white)](https://github.com/mafintosh/csv-parser/stargazers) ⏱️  
   **Bare-Metal Streaming CSV Parser for Node.js** (MIT) — Processes 90,000+ rows/second with minimal memory overhead, strictly adhering to the `csv-spectrum` acid compliance tests.
 
-- **[univocity-parsers](https://github.com/uniVocity/univocity-parsers)** [![GitHub stars](https://img.shields.io/github/stars/uniVocity/univocity-parsers?style=social&color=white)](https://github.com/uniVocity/univocity-parsers/stargazers) ☕  
+- **[univocity-parsers](https://github.com/uniVocity/univocity-parsers)** [![GitHub_Stars](https://img.shields.io/github/stars/uniVocity/univocity-parsers?style=social&color=white)](https://github.com/uniVocity/univocity-parsers/stargazers) ☕  
   **The Fastest Java CSV, TSV & Fixed-Width Parser** (Apache-2.0) — High-throughput architecture processing 2.3M+ records/sec (6.3x faster than Commons CSV) with zero third-party dependencies, annotation-based column mapping, and advanced whitespace handling.
 
-- **[Super CSV](https://github.com/super-csv/super-csv)** [![GitHub stars](https://img.shields.io/github/stars/super-csv/super-csv?style=social&color=white)](https://github.com/super-csv/super-csv/stargazers) 🛡️  
+- **[Super CSV](https://github.com/super-csv/super-csv)** [![GitHub_Stars](https://img.shields.io/github/stars/super-csv/super-csv?style=social&color=white)](https://github.com/super-csv/super-csv/stargazers) 🛡️  
   **Validation-First Java CSV Library** (Apache-2.0) — Features extensible `CellProcessor` chains for data validation (regex, range, null checks), POJO bean mapping, and deep property traversal via `CsvDozerBeanReader`.
 
-- **[d3-dsv](https://github.com/d3/d3-dsv)** [![GitHub stars](https://img.shields.io/github/stars/d3/d3-dsv?style=social&color=white)](https://github.com/d3/d3-dsv/stargazers) 📊  
+- **[d3-dsv](https://github.com/d3/d3-dsv)** [![GitHub_Stars](https://img.shields.io/github/stars/d3/d3-dsv?style=social&color=white)](https://github.com/d3/d3-dsv/stargazers) 📊  
   **D3 Ecosystem Delimiter-Separated Value Parser** (ISC) — Lightweight parser and formatter for CSV, TSV, and arbitrary delimiters (`dsv.dsv("|")`), widely adopted across interactive front-end visualizations.
 
-- **[Apache Commons CSV](https://github.com/apache/commons-csv)** [![GitHub stars](https://img.shields.io/github/stars/apache/commons-csv?style=social&color=white)](https://github.com/apache/commons-csv/stargazers) 🪶  
+- **[Apache Commons CSV](https://github.com/apache/commons-csv)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/commons-csv?style=social&color=white)](https://github.com/apache/commons-csv/stargazers) 🪶  
   **Standard Java Delimiter Abstraction** (Apache-2.0) — Clean, lightweight Java library supporting RFC 4180, Excel, Informix, and MySQL CSV formats with zero external runtime dependencies.
 
-- **[neat-csv](https://github.com/sindresorhus/neat-csv)** [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/neat-csv?style=social&color=white)](https://github.com/sindresorhus/neat-csv/stargazers) 📦  
+- **[neat-csv](https://github.com/sindresorhus/neat-csv)** [![GitHub_Stars](https://img.shields.io/github/stars/sindresorhus/neat-csv?style=social&color=white)](https://github.com/sindresorhus/neat-csv/stargazers) 📦  
   **Promise-Based Fast CSV Wrapper** (MIT) — Clean `async/await` convenience wrapper around streaming parsers for modern Node.js and TypeScript environments.
 
-- **[cisv](https://github.com/Sanix-Darker/cisv)** [![GitHub stars](https://img.shields.io/github/stars/Sanix-Darker/cisv?style=social&color=white)](https://github.com/Sanix-Darker/cisv/stargazers) ⚙️  
+- **[cisv](https://github.com/Sanix-Darker/cisv)** [![GitHub_Stars](https://img.shields.io/github/stars/Sanix-Darker/cisv?style=social&color=white)](https://github.com/Sanix-Darker/cisv/stargazers) ⚙️  
   **SIMD-Accelerated C Parser with Python Bindings** (Open-Source) — Optimized with vector instructions for high-throughput delimiter scanning, tested against Arrow, DuckDB, and Polars.
 
 ---
@@ -155,7 +155,7 @@ Your support keeps this ecosystem directory up-to-date and actively maintained! 
 
 1. Fork this repository 🍴
 2. Add your tool, parser library, or platform to the corresponding section following the established format ✍️
-3. Include project name, official URL, license, key performance benchmarks, and star badges 🏷️
+3. Include project name, official URL, license, key performance benchmarks, and Stars_Badges 🏷️
 4. Submit a Pull Request with a clear summary of additions or updates 🚀
 
 ---
